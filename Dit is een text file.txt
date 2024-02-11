@@ -1,1 +1,2 @@
 Dit is een text file with a change\nnog een change
+Another line
